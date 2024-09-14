@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andrew-667408
-- 👀 I’m interested in learning how to write programs
+- 👀 I’m interested in learning to write programs
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Linux oriented projects.
 - 📫 You can messege me on telegram at +37477739969 or email me at a.andreyev12387306@outlook.com.
