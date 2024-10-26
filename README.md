@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to write programs
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Linux oriented projects.
-- 📫 You can messege me on telegram at +37477739969 or email me at a.andreyev12387306@outlook.com.
+- 📫 ---
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: If we don't stop climate change then we'll all die.
 
